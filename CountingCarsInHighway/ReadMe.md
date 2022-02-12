@@ -10,6 +10,6 @@ Sercan SATICI | Counting Cars in Highway |
 
 Method | Definition  |
 ---| --- |
-Counting Cars in Highway | Motion estimation was made with the frame difference method, and vehicle definition was applied for a certain threshold value.. |
+Counting Cars in Highway | Motion estimation was made with the frame difference method, and vehicle definition was applied for a certain threshold value. |
 Input |  CountingCars.m", "traffic.mj2" |
 Output | Vehicle counters for each lanes |
