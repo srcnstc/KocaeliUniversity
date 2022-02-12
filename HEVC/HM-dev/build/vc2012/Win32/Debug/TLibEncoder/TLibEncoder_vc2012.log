@@ -1,0 +1,31 @@
+﻿Build started 26.5.2016 22:09:43.
+     1>Project "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\vc2012\TLibEncoder_vc2012.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_LIB" /D "_CRT_SECURE_NO_WARNINGS" /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\\" /Fd"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibEncoder\TEncSearch.cpp
+         TEncSearch.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TLibEncoder.lib" /NOLOGO "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\NALwrite.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\SEIEncoder.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\SEIwrite.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\SyntaxElementWriter.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncBinCoderCABAC.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncBinCoderCABACCounter.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncCavlc.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncCu.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncEntropy.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncGOP.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncPic.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncPreanalyzer.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncRateCtrl.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncSampleAdaptiveOffset.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncSbac.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncSearch.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncSlice.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TEncTop.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\WeightPredAnalysis.obj"
+         TLibEncoder_vc2012.vcxproj -> C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibEncoder\TLibEncoder.lib
+     1>Done Building Project "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\vc2012\TLibEncoder_vc2012.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.44

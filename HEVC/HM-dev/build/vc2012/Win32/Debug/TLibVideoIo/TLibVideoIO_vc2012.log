@@ -1,0 +1,13 @@
+﻿Build started 3.4.2016 08:07:38.
+     1>Project "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\vc2012\TLibVideoIO_vc2012.vcxproj" on node 5 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_LIB" /D "_CRT_SECURE_NO_WARNINGS" /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibVideoIo\\" /Fd"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibVideoIo\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\source\Lib\TLibVideoIO\TVideoIOYuv.cpp"
+         TVideoIOYuv.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibVideoIo\TLibVideoIO.lib" /NOLOGO "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibVideoIo\TVideoIOYuv.obj"
+         TLibVideoIO_vc2012.vcxproj -> C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibVideoIo\TLibVideoIO.lib
+     1>Done Building Project "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\vc2012\TLibVideoIO_vc2012.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.60

@@ -1,0 +1,23 @@
+1)DecBinaryGray.m
+Decimal bir sayýyý ikili ve gray bit düzlemine çevirmekte
+
+2)HexagonalPatternSearchforMotionEstimation
+Hexagonal Desenli arama stratejisi kullanýlarak hareket kestirimi yapmakta
+
+3)MotionEstimationTGCBPM1ForVideoCoding
+NTB=7 için T-GCBPM yapmakta
+
+4)MotionEstimationTGCBPM2ForVideoCoding
+NTB=6 için T-GCBPM yapmakta
+
+5)PSNRBitRate
+'football.yuv' test dizini 50 frame için farklý ölçekleme katsayýlarýnda T-GCBPM(NTB=7 için) R&D grafikleri çizmekte
+
+6)SADvsNNMPRelation
+'foreman.yuv' test dizini için 16x16 blok boyutunda SAD ve CMtg deðerlerini elde edip .txt dosyasýna yazmakta
+
+7)SADvsNNMPRelationMLS
+.txt dosyasýndan yazýlmýþ deðerleri okuyup MLS yaklaþýmý ile grafik çizdirmekte
+
+8)YUVtoBMP
+YUV dosyalarýný BMP formatýnda resim çerçevelerine ayýrmakta

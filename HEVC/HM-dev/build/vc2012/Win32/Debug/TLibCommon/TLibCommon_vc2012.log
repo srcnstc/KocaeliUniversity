@@ -1,0 +1,39 @@
+﻿Build started 26.5.2016 21:19:30.
+     1>Project "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\vc2012\TLibCommon_vc2012.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_LIB" /D "_CRT_SECURE_NO_WARNINGS" /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\\" /Fd"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibCommon\TComRdCost.cpp
+         TComRdCost.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TLibCommon.lib" /NOLOGO "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\libmd5.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\ContextModel.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\ContextModel3DBuffer.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\Debug.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\SEI.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComBitStream.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComCABACTables.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComChromaFormat.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComDataCU.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComInterpolationFilter.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComLoopFilter.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComMotionInfo.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComPattern.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComPic.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComPicSym.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComPicYuv.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComPicYuvMD5.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComPrediction.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComRdCost.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComRdCostWeightPrediction.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComRom.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComSampleAdaptiveOffset.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComSlice.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComTrQuant.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComTU.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComWeightPrediction.obj"
+         "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TComYuv.obj"
+         TLibCommon_vc2012.vcxproj -> C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\\vc2012\Win32\Debug\TLibCommon\TLibCommon.lib
+     1>Done Building Project "C:\Users\CASPER\Desktop\Hevc TGCBPM1\HM-dev\build\vc2012\TLibCommon_vc2012.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.51

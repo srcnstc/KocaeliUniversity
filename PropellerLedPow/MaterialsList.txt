@@ -1,0 +1,7 @@
+Msp430G2553
+20 Pin dip soket
+8 x Kýrmýzý LED
+8 x Beyaz LED
+16 x 330 ohm direnç
+DC Motor
+3v pil ve pil yuvasý

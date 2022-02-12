@@ -1,0 +1,23 @@
+1)DecBinaryGray.m
+Converts a decimal number to binary and gray bitplane
+
+2)HexagonalPatternSearchforMotionEstimation
+Estimating motion using the Hexagonal Pattern search strategy.
+
+3)MotionEstimationTGCBPM1ForVideoCoding
+T-GCBPM for NTB=7
+
+4)MotionEstimationTGCBPM2ForVideoCoding
+T-GCBPM for NTB=6
+
+5)PSNRBitRate
+The test directory 'football.yuv' draws R&D graphs for 50 frames at different scaling coefficients T-GCBPM(for NTB=7)
+
+6)SADvsNNMPRelation
+Obtaining 16x16 block size SAD and CMtg values for 'foreman.yuv' test directory and writing them to .txt file
+
+7)SADvsNNMPRelationMLS
+It reads the values written from the .txt file and draws graphs with the MLS approach
+
+8)YUVtoBMP
+Splits YUV files into picture frames in BMP format
