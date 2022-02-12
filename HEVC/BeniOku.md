@@ -10,6 +10,6 @@ Sercan SATICI | Yüksek Verimli Video Kodlamaya (HEVC) Hızlı Hareket Tahmini A
 
 Method | Tanım  |
 ---| --- |
-Yüksek Verimli Video Kodlamaya (HEVC) Hızlı Hareket Tahmini Algoritmasının Uygulanması | HEVC ile hareket kestirimi yazılım bloğunda standart olarak sunulan Test Bölgesi (TZ) algoritması yerine daha az arama noktasının tarandığı hızlı hareket kestirimi algoritması (TGCBPM) hayata geçirilmiştir.. |
+Yüksek Verimli Video Kodlamaya (HEVC) Hızlı Hareket Tahmini Algoritmasının Uygulanması | HEVC ile hareket kestirimi yazılım bloğunda standart olarak sunulan Test Bölgesi (TZ) algoritması yerine daha az arama noktasının tarandığı hızlı hareket kestirimi algoritması (TGCBPM) hayata geçirilmiştir. |
 Input |  BasketballPass_416x240_50.yuv, football_cif.yuv, mobile_cif.yuv, stefan_cif.yuv |
 Output | HEVC kodlanmış video |
