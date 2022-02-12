@@ -10,6 +10,6 @@ Sercan SATICI | Video Stabilization |
 
 Method | Definition  |
 ---| --- |
-Video Stabilization | Defitions. |
+Video Stabilization | By calculating the optimal path with DTW, stabilization was achieved by moving in the opposite direction. |
 Input |  "VideoStabilization.m", "shaky_car.avi, viplanedeparture.avi, viplane.avi, vipscenevideoclip.avi" |
 Output | Stabilized Video, Original and DTW Warped Signals figure, Distance Matrix and Optimal Path figure  |
