@@ -8,8 +8,8 @@ Tasarımcı | Konu  |
 Sercan SATICI | Otoyoldan Geçen Araç Sayısı Tespiti |
 
 
-Method | Çerçeve farkı yöntemi ile hareket kestirimi yapılmış, belirli bir eşik değer için araç tanımımlaması uygulanmaştır.  |
+Method | Tanım  |
 ---| --- |
-Otoyoldan Geçen Araç Sayısı Tespiti | Açıklama. |
+Otoyoldan Geçen Araç Sayısı Tespiti | Çerçeve farkı yöntemi ile hareket kestirimi yapılmış, belirli bir eşik değer için araç tanımımlaması uygulanmaştır. |
 Input |  CountingCars.m", "traffic.mj2" |
 Output | Her iki şerit için araç sayaçları |
